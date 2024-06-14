@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dribllerrad
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://darrellbird.com
+  * I am dribllerrad (https://keybase.io/dribllerrad) on keybase.
+  * I have a public key ASDpDP0hOAcIEVUC6IOIy7Ea9mPzCi-hsoec0uvMo9pxqwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d5d5aaf5f93d7ad2f1e429e1da52e9ffead153e3aea48c64b7e8d72d2aee25e50a",
+      "host": "keybase.io",
+      "kid": "0120e90cfd21380708115502e88388cbb11af663f30a2fa1b2879cd2ebcca3da71ab0a",
+      "uid": "718142254ac61685d90103dfb0b26b19",
+      "username": "dribllerrad"
+    },
+    "merkle_root": {
+      "ctime": 1718338901,
+      "hash": "44c0dc47c7a81b046a0ede5f5e0cd15f97c5de7e0328c1c88d6bd547070b5b757fe50f640681e6b6a80d0108641471f78563a03211f2005e8320adac727803f4",
+      "hash_meta": "2efde3cfc41fb681e963f1a1d78d21e83c05d2d6fb2a9ef062a4ce85085559bf",
+      "seqno": 25831116
+    },
+    "service": {
+      "entropy": "DupdQsjS4CFPdT/pwmGBdtjL",
+      "hostname": "darrellbird.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.3.0"
+  },
+  "ctime": 1718338959,
+  "expire_in": 504576000,
+  "prev": "cb37c19043045f6017b02c0743dd40d631edac22cfe587cf165ed62583b69483",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6Qz9ITgHCBFVAuiDiMuxGvZj8wovobKHnNLrzKPacasKp3BheWxvYWTESpcCF8QgyzfBkEMEX2AXsCwHQ91A1jHtrCLP5YfPFl7WJYO2lIPEIDDsSROE/zWW+kwIhWPXqcSDDT5YzbZgdOGELkgo230CAgHCo3NpZ8RA0I3+778RKLqCn96G/E8HWgBFjq+jVtlpw9gxz2h9E8Bnw4yDlw4JHz/qfL/a7ysO5Zr0Vq19MCPQmcCCcnLeCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIPJ5SnIg+1NezZgSiF8t5NG6Zy5faieV5bp11i7zLR0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dribllerrad
+
+==================================================================
